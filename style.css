@@ -1,0 +1,128 @@
+
+.logo{
+    width: 100px;
+    height: 100px;
+    margin-left: 5%;
+}
+
+.home{background-color: #FDEFEF;
+    height: 90%;
+}
+
+.home-header{
+    font-weight: bolder;
+    margin-top: 20%;
+}
+
+.home-des{
+    margin-top: 10%;
+    font-size: 1.4rem;
+}
+
+.home-logo{
+width: 550px;
+height: 550px;
+
+}
+
+.team{
+
+    background-color: #D4ECDD;
+    text-align: center;
+    font-size: 2.7rem;
+}
+
+a {
+    font-style: normal;
+    text-decoration: none;
+    color: #efefef;
+}
+
+a:hover{
+    font-style: normal;
+    text-decoration: none;
+    color: #dfdfdf;
+}
+
+.courses{
+    background-color: #6F69AC;
+    text-align: center;
+}
+
+.course-header{
+    color: #93B5C6;
+text-align: center;
+margin-bottom: 10%;
+}
+
+.des{
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 25%;
+    font-size: 1.2rem;
+   
+}
+
+.container-fluid{
+    text-align: center;
+padding: 5% 10%;
+}
+
+.container{
+    padding: 5% 10%;
+}
+
+.project-image{
+    width: 480px;
+    height: 300px;
+}
+
+.project-title{
+    margin-top: 10%;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.form{
+    text-align:left ;
+ font-size: 1.8rem;
+background-color: #E2C2B9;
+}
+
+.form-text{
+    font-size: 0.8rem;
+}
+
+.form-control{
+    height: 55px;
+}
+
+.form-head{
+    text-align: center;
+    margin-bottom: 15%;
+}
+
+.form-group{
+    width: 80%;
+margin-bottom: 3%;
+}
+
+.team-heading{
+    margin-top: 5px;
+}
+
+.prf{
+
+
+    width: 250px;
+    height: 250px;
+}
+
+.prf-tit{
+    font-size: 1.5rem;
+}
+
+.nyt_logo{
+    width: 100px;
+    height: 100px;
+}
